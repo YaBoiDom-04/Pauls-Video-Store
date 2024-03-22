@@ -10,7 +10,9 @@ _Open to reworks and optimization of kinks in logic and codebase_
 ## The codebase will be provided under the README files along with a nice description of each file to understand the workflow.
 
 This was my chance to show off what I learned in class regarding data structures and how to get their full strength out when using them to prompt critical software-level changes in an outdated system.
+
 5 Java classes were created to complete this project and the vision of how I wanted to meet every requirement, maybe not in a way that's efficient or best-use case, but in a way where I could understand how each object class aided in the full scope of the project.
+
 I chose to implement ArrayList as the main data structure because of its fast insert and deletion capability for which a digital bookkeeping software used in a video store would be most applicable and the best way to keep track of the influx of customers a technological advancement like this to the service provided in the task to the consumer would lead to through basic economic inferencing about supply and demand.
 
 # Here are some sample output screenshots along with some test cases for each of the requirements I completed successfully in the given time before the semester ended. Once again, since this is public, collaboration, insight, and general feedback is much appreciated.
