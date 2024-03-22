@@ -15,8 +15,11 @@ I chose to implement ArrayList as the main data structure because of its fast in
 
 # Here are some sample output screenshots along with some test cases for each of the requirements I completed successfully in the given time before the semester ended. Once again, since this is public, collaboration, insight, and general feedback is much appreciated.
 Screenshots show software capability of adding users and movies, renting and returning movies, and finding users who've rented or not rented said movies. Touching up the 3 renting maximum feature along with the display of phone number and name when finding the user.
+
 (<img width="353" alt="Screen Shot 2024-03-22 at 4 07 37 PM" src="https://github.com/YaBoiDom-04/Pauls-Video-Store/assets/123392727/bd5fb95f-bfad-41a1-9085-43a68e1658cb">)
+
 (<img width="344" alt="Screen Shot 2024-03-22 at 4 07 50 PM" src="https://github.com/YaBoiDom-04/Pauls-Video-Store/assets/123392727/d333a217-9841-4041-ba8e-b662bc729a37">)
+
 (<img width="327" alt="Screen Shot 2024-03-22 at 4 08 00 PM" src="https://github.com/YaBoiDom-04/Pauls-Video-Store/assets/123392727/7bb4a3f5-519d-4eae-90b7-b1aa10de400a">)
 
 # Hope you enjoy!
